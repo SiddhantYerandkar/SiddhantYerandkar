@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
-- 🌱 I’m currently learning ...node js
-- 👀 I’m interested in ...backend development
-- 📫 How to reach me ...siddhantyerandkar@gmail.com
+- 🌱 I’m currently learning **node js**
+
+- 👀 I’m interested in **backend development**
+
+- 📫 How to reach me **siddhantyerandkar@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhant yerandkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant yerandkar" height="30" width="40" /></a>
