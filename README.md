@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant</h1>
+<h1 align="center">Hi 👋, I'm Siddhant Yerandkar</h1>
 
 - 🌱 I’m currently learning **node js**
 
