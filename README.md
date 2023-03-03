@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
-- 🌱 I’m currently learning node js
+
+- 🌱 I’m currently learning **node js
 
 - 👀 I’m interested in **backend development**
 
