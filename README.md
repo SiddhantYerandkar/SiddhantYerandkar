@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👀 I’m interested in **backend development**
+- 👀 I’m interested in **Full Stack development**
 
 - 📫 How to reach me **siddhantyerandkar@gmail.com**
 
