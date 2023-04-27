@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Yerandkar</h1>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **React js**
 
 - 👀 I’m interested in **backend development**
 
