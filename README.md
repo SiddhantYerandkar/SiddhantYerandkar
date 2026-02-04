@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<p align="left">📚 I’m currently learning React js<br>👀 I’m interested in Full Stack development</p>
+<p align="left">👀 I’m interested in Full Stack development</p>
 
 ###
 
