@@ -47,14 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddhantYerandkar&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img align="right" height="200" src="https://giffiles.alphacoders.com/193/193890.gif"  />
 
 ###
