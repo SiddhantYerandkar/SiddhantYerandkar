@@ -1,63 +1,80 @@
 <div align="center">
-  <img height="200" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
+  <img height="200" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 </div>
 
-<br clear="both">
+<h1 align="center">Hey 👋 I'm Siddhant</h1>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  💻 Full Stack Software Engineer | ⚡ Building scalable backend systems <br/>
+  📍 India
+</p>
 
-###
+---
 
-<br clear="both">
+## 🚀 About Me
 
-<p align="left">My name is Siddhant and I'm a Software Engineer, from India.</p>
+- 🧠 2+ years of experience in **Full Stack Development**
+- ⚙️ Strong focus on **backend architecture & system design**
+- 🏗️ Building real-world systems like **multi-tenant billing platforms**
+- 📈 Interested in **scalable systems, async processing, and clean architecture**
+- 🎯 Always improving — from writing better code to designing better systems
 
-###
+---
 
-<br clear="both">
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">👀 I’m interested in Full Stack development</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" />
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://giffiles.alphacoders.com/193/193890.gif"  />
+## 🔥 Featured Project
 
-###
+### 🧾 Multi-Tenant Billing Platform
+- Designed a **SaaS-style billing system** supporting multiple companies  
+- Implemented **invoice management, payment tracking, and financial workflows**  
+- Built **PDF generation & Excel export features**  
+- Structured system for **scalability and real-world usage**
+
+👉 *(More details in repositories)*
+
+---
+
+## 🧠 What I’m Currently Focused On
+
+- ⚡ Backend performance & scalability  
+- 🔄 Async processing (queues, background jobs)  
+- 🔐 Secure and robust API design  
+- 🏗️ Writing production-grade code  
+
+---
+
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/siddhant-yerandkar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## ⚡ Fun Side
+
+- 🎮 Into RPGs & Souls-like games  
+- 🎧 R&B + Joji vibes  
+- 🐱 Cat person  
+
+---
+
+⭐ *“Good code works. Great code scales.”*
