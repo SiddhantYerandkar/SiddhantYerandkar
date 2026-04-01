@@ -45,6 +45,17 @@
 
 👉 *(More details in repositories)*
 
+### ⚙️ Async Job Processor
+- Built a scalable asynchronous job processing system using BullMQ & Redis
+- Designed background workers to handle heavy tasks outside request lifecycle
+- Implemented retry mechanisms with exponential backoff for fault tolerance
+- Exposed REST APIs for job submission and tracking
+- Integrated Bull Board dashboard for real-time queue monitoring
+- Added Docker support for easy setup and deployment
+- Demonstrated real use cases like email processing & report generation
+
+👉 *(More details in repositories)*
+
 ---
 
 ## 🧠 What I’m Currently Focused On
